@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title></title>
+      <title>google</title>
       <link href="/2023/11/04/google/"/>
       <url>/2023/11/04/google/</url>
       
         <content type="html"><![CDATA[<p>以下是一些Google搜索技巧，可以帮助你更好地定位你所需要的信息：</p><ol><li><p>使用引号：” “ - 使用双引号将搜索词或短语括起来，以精确匹配这些词语。例如，”人工智能” 将只返回包含这个短语的页面。</p></li><li><p>排除词：- - 在搜索词前加上减号（-）来排除特定词汇。例如，若要搜索苹果公司但不包括果树相关信息，可以输入”苹果 -果树”。</p></li><li><p>站点限定搜索：site: - 使用 “site:” 后面加上网站域名，可以限制搜索结果只在该网站内显示。例如，”site:wikipedia.org 量子力学” 将在维基百科网站内搜索量子力学相关信息。</p></li><li><p>文件类型过滤：filetype: - 使用 “filetype:” 后面加上文件类型，可以过滤搜索结果中的特定文件类型。例如，”filetype:pdf 技术白皮书” 只会返回PDF文件格式的技术白皮书。</p></li><li><p>相关词搜索：related: - 使用 “related:” 后面加上网站的域名，可以查找与该网站相关的其他网站。例如，”related:nytimes.com 新闻” 可以列出与纽约时报相关的其他新闻网站。</p></li><li><p>指定范围：.. - 使用两个连续的句号来指定一个数字范围，用于价格、日期等搜索。例如，”2020..2022 年度报告” 将搜索介于2020年和2022年之间的年度报告。</p></li><li><p>定义词汇：define: - 使用 “define:” 后面加上单词，可以获取该词的定义。例如，”define:技术” 将显示技术这个词的含义。</p></li><li><p>时间范围限定：daterange: - 使用 “daterange:” 后面加上起始日期和结束日期，可以限定搜索结果的发布日期范围。例如，”daterange:2022-01-01..2022-12-31 人工智能” 将搜索2022年内与人工智能相关的信息。</p></li><li><p>模糊搜索：* - 使用星号（*）作为通配符来代替缺失的词或词尾。例如，”忍者 * 忍术” 可以找到与忍者和忍术相关的各种组合。</p></li><li><p>特定文件搜索：intitle: 和 inurl: - 使用 “intitle:” 后面加上关键词，可以限制搜索结果中标题包含该关键词的页面。使用 “inurl:” 后面加上关键词，可以限制搜索结果中URL包含该关键词的页面。</p></li></ol><p>这些技巧可以帮助你更精确地找到所需的信息，提高你的搜索效率。根据你的需求，你可以组合和使用这些技巧来获取最佳的搜索结果。</p><p>当使用Google进行搜索时，以下是一些常用的搜索技巧和操作符，可以帮助你更精确地找到你需要的信息：</p><ol><li><p>引号搜索：使用双引号将搜索词或短语括起来，可以搜索完全匹配的结果。例如：”openAI GPT-3”。</p></li><li><p>排除词搜索：使用减号符号（-）排除特定的词或短语。例如：Python -snake。</p></li><li><p>OR 操作符：使用 OR（大写）或竖线符号（|）来搜索多个词或短语中的任意一个。例如：Python OR Java。</p></li><li><p>网站限定搜索：使用 “site:” 后跟特定网站的域名，可以限定搜索结果只在该网站内进行。例如：site:wikipedia.org AI。</p></li><li><p>文件类型搜索：使用 “filetype:” 后跟特定的文件扩展名，可以搜索特定类型的文件。例如：filetype:pdf machine learning。</p></li><li><p>相关搜索：在搜索结果页面中，点击某个搜索结果下方的”相关搜索”链接，可以获得与该搜索结果相关的其他搜索建议。</p></li><li><p>数字范围搜索：使用两个点（..）表示数字范围，可以搜索特定范围内的数字。例如：iPhone 11..13。</p></li><li><p>单词的含义：使用 “define:” 后跟单词，可以获得该单词的定义和解释。例如：define:algorithm。</p></li><li><p>单词的同义词：使用符号波浪号（<del>）前缀，可以搜索与给定词具有相关意义的同义词。例如：</del>fast food。</p></li><li><p>时间范围搜索：在搜索工具栏中选择特定的时间范围，可以限定搜索结果在该时间范围内更新的内容。</p></li></ol><p>这些是一些常用的Google搜索技巧和操作符，可以帮助你更有效地搜索所需的信息。记住，不同的搜索技巧可以组合使用，以获得更精确和有针对性的搜索结果。</p><p>当使用Google进行搜索时，还有一些其他的技巧和操作符可以帮助你更好地利用搜索引擎：</p><ol><li><p>省略词搜索：使用省略号（…）来表示在短语中省略的部分。例如：”A journey of a thousand miles begins with…”。</p></li><li><p>搜索特定网页标题：使用 “intitle:” 后跟你想要搜索的特定网页标题关键词。例如：intitle:”Python tutorial”。</p></li><li><p>搜索特定网页 URL：使用 “inurl:” 后跟你想要搜索的特定网页 URL 关键词。例如：inurl:blog。</p></li><li><p>搜索特定文件名：使用 “intitle:” 后跟你想要搜索的特定文件名关键词。例如：intitle:”index.html”。</p></li><li><p>相关网页搜索：使用 “related:” 后跟特定网页的 URL，可以找到与该网页相关的其他网页。例如：related:<a target="_blank" rel="noopener" href="http://www.example.com./">www.example.com。</a></p></li><li><p>搜索特定文件类型：使用 “filetype:” 后跟特定的文件扩展名，可以搜索特定类型的文件。例如：filetype:docx。</p></li><li><p>定义数字单位：使用 “convert” 关键词，可以将一个数字单位转换成另一个。例如：”10 dollars to euros”。</p></li><li><p>搜索特定类型的信息：使用 “info:” 后跟特定的主题关键词，可以获得与该主题相关的详细信息。例如：info:artificial intelligence。</p></li><li><p>搜索特定时间段内的新闻：使用 “after:” 或 “before:” 后跟特定日期，可以搜索在该日期之后或之前发布的新闻。例如：”AI advancements after:2022-01-01”。</p></li><li><p>搜索范围限定：使用两个点（..）表示范围，可以限定搜索结果在特定范围内的数值、日期等。例如：”best laptops $500..$1000”。</p></li></ol><p>这些技巧和操作符可以帮助你更精确地搜索特定的信息，提供更有价值的搜索结果。记住，Google搜索引擎不断更新和改进，因此建议时常关注新的搜索功能和技巧。</p><p>当然！这里还有一些其他的Google搜索技巧和操作符供你参考：</p><ol><li><p>搜索特定文件类型的内容：使用 “intext:” 后跟关键词，可以搜索特定文件类型中包含该关键词的内容。例如：intext:”machine learning” filetype:pdf。</p></li><li><p>搜索相关网页的链接：使用 “link:” 后跟特定网页的 URL，可以找到与该网页相关的其他网页链接。例如：link:<a target="_blank" rel="noopener" href="http://www.example.com./">www.example.com。</a></p></li><li><p>搜索特定网站的内部页面：使用 “site:” 后跟特定网站的域名和特定关键词，可以搜索该网站内包含该关键词的页面。例如：site:wikipedia.org AI。</p></li><li><p>搜索特定作者的内容：使用 “author:” 后跟特定作者的姓名，可以搜索该作者发布的内容。例如：author:”John Doe”。</p></li><li><p>搜索特定文件的标题或内容：使用 “allintitle:” 或 “allintext:” 后跟关键词，可以搜索标题或内容中包含所有给定关键词的文件。例如：allintitle:”Python tutorial”.</p></li><li><p>搜索特定网站的缓存页面：使用 “cache:” 后跟特定网页的 URL，可以查看该网页的缓存版本。例如：cache:<a target="_blank" rel="noopener" href="http://www.example.com./">www.example.com。</a></p></li><li><p>搜索相关图片：在Google搜索页面上，点击图片搜索按钮，可以搜索与特定关键词相关的图片。</p></li><li><p>搜索特定语言的结果：使用 “lang:” 后跟特定语言代码，可以限定搜索结果为特定语言的内容。例如：machine learning lang:en。</p></li><li><p>搜索特定文件大小的文件：使用 “size:” 后跟特定文件大小，可以搜索特定大小的文件。例如：filetype:pdf size:1MB。</p></li><li><p>搜索特定领域的结果：使用 “in” 后跟特定领域的名称，可以搜索与该领域相关的内容。例如：”artificial intelligence” in:news。</p></li></ol><p>这些技巧和操作符可以帮助你更加精确地搜索特定的信息，提供更有针对性的搜索结果。尝试结合使用这些技巧，以获得更好的搜索体验和结果。</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> -Google </tag>
+            
+        </tags>
       
     </entry>
     
@@ -395,9 +401,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -406,9 +412,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
